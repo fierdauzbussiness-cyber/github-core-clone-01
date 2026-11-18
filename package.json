@@ -1,0 +1,1 @@
+{"description":"A GitHub-compatible git forge: git smart-HTTP protocol, REST v3 API, GraphQL API and MCP server — Node 22 stdlib only, no dependencies.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"github-core-clone-01","scripts":{"start":"node --experimental-strip-types main.ts","typecheck":"tsc --noEmit"},"type":"module","version":"1.0.0"}
